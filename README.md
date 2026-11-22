@@ -62,20 +62,20 @@ Add screenshots inside `screenshots/` or `assets/` directory:
 
 
 ### 🔍 Vehicle Details Modal
-<img width="1505" height="866" alt="vechilessection" src="https://github.com/user-attachments/assets/9e2439f5-7b90-40bc-8e15-aae3b122d7d7" />
+<img width="1000" height="500" alt="vechilessection" src="https://github.com/user-attachments/assets/9e2439f5-7b90-40bc-8e15-aae3b122d7d7" />
 
 
 ### 📁 My Bookings
-<img width="1230" height="838" alt="mybookings" src="https://github.com/user-attachments/assets/c232c3d4-e54d-471e-a5b0-b221d48d2543" />
+<img width="1000" height="500" alt="mybookings" src="https://github.com/user-attachments/assets/c232c3d4-e54d-471e-a5b0-b221d48d2543" />
 
 
 ### 📊 Admin Dashboard & Bookings
-<img width="1535" height="588" alt="adminpanneldashborad" src="https://github.com/user-attachments/assets/7611cb88-3138-46de-9876-9783519f3aa5" />
+<img width="1000" height="500" alt="adminpanneldashborad" src="https://github.com/user-attachments/assets/7611cb88-3138-46de-9876-9783519f3aa5" />
 
 
 ### ➕ Add/Edit Fleet
-<img width="1535" height="879" alt="adminaddvechiles1" src="https://github.com/user-attachments/assets/869e3389-98eb-4c04-83e5-9d49977d1ef3" />
-<img width="1535" height="876" alt="admineditthevechilesthatuploaded" src="https://github.com/user-attachments/assets/9ab0377f-416b-4438-b5b1-9b6f25a1ee6f" />
+<img width="1000" height="500" alt="adminaddvechiles1" src="https://github.com/user-attachments/assets/869e3389-98eb-4c04-83e5-9d49977d1ef3" />
+<img width="1000" height="500" alt="admineditthevechilesthatuploaded" src="https://github.com/user-attachments/assets/9ab0377f-416b-4438-b5b1-9b6f25a1ee6f" />
 
 ---
 
