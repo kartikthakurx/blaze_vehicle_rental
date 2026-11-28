@@ -54,7 +54,6 @@ The project is built using PHP, MySQL, HTML, CSS, and JavaScript and includes se
 
 ## 📸 Screenshots
 
-Add screenshots inside `screenshots/` or `assets/` directory:
 
 ### 🏠 Home & Fleet Catalog
 <img width="1000" height="500" alt="home1" src="https://github.com/user-attachments/assets/a00373b6-d48b-4238-b47d-0a26b19bcb59" />
